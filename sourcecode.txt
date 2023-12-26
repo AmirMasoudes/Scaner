@@ -1,0 +1,2 @@
+int amir = 11
+if amir == 12:

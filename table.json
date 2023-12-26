@@ -1,0 +1,23 @@
+{
+   "IF_KW": [
+      "if"
+   ],
+   "CONST_NUMBER": [
+      "11",
+      "12"
+   ],
+   "EQUAL_OP": [
+      "=="
+   ],
+   "ASSIGNMENT_OP": [
+      "=",
+      "=",
+      "="
+   ],
+   "IDENTIFIER": [
+      "int",
+      "amir",
+      "if",
+      "amir"
+   ]
+}
